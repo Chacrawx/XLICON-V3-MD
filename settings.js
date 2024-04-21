@@ -1,4 +1,4 @@
-
+non
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
 //                                 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
@@ -52,7 +52,7 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || 'toshiro' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '+221 76 414 73 48' //ur owner number
+global.ownernumber = process.env.SUDO || '+221764147348' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'toshiro' //ur owner name
 //________________________________________________________________________________________________________
@@ -93,7 +93,7 @@ global.welcome = process.env.WELCOME_MSG || true //welcome/left in groups
 //________________________________________________________________________________________________________
 global.anticall = process.env.GL_NOCALL || false //bot blocks user when called
 //________________________________________________________________________________________________________
-global.autoswview = process.env.AUTO_STATUS_SEEN || true //auto status/story view
+global.autoswview = process.env.AUTO_STATUS_SEEN || false //auto status/story view
 //________________________________________________________________________________________________________
 global.adminevent = process.env.ANNOUNCE_MSG  || true //show promote/demote message
 //________________________________________________________________________________________________________
