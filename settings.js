@@ -41,7 +41,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: S4 toshiro YT" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "YT: S4 prince YT" //ur yt chanel name
 //________________________________________________________________________________________________________
 global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
 //________________________________________________________________________________________________________
@@ -50,11 +50,11 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'toshiro' //ur bot name
+global.botname = process.env.BOT_NAME || 'prince' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '+221764147348' //ur owner number
+global.ownernumber = process.env.SUDO || '+221787332549' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'toshiro' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'PRINCE' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
@@ -72,9 +72,9 @@ global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
 //________________________________________________________________________________________________________
-global.xprefix = process.env.PREFIX || ','
+global.xprefix = process.env.PREFIX || '!'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["+221764147348"] // Premium User
+global.premium = process.env.GL_VIP || ["+221787332549"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
